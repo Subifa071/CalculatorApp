@@ -1,2 +1,3 @@
-<p align = "right"><img src="" style="width: 20%; height: 200px; float:right;" border="4" alt="Sorry! an image can't find">
+<p align = "right"><img src="https://github.com/Subifa071/CalculatorApp/blob/master/calculator.png" >
   <br>
+<h1>INTRODUCTION</h1>
